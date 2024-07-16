@@ -4,9 +4,10 @@ A simple library for managing Discord giveaways.
 
 ## Installation
 
-sh
+```sh
 npm install easy-giveaway-maker
-
+```
+## Usage
 ```js
 const EasyMaker = require('easy-giveaway-maker');
 
