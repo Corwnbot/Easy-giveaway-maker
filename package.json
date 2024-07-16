@@ -1,0 +1,21 @@
+{
+  "name": "easy-maker",
+  "version": "1.0.0",
+  "description": "A simple library for managing Discord giveaways.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "giveaway",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
